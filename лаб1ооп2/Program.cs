@@ -17,7 +17,6 @@ namespace лаб1ооп2
             Console.WriteLine($"Введений користувачем: " + tr2);
             Console.WriteLine($"Копiя введеного користувачем: " + trc);
             Console.WriteLine($"Введений користувачем та помножений на число: " + trm);
-
             if (tr == trm)
             {
                 Console.WriteLine("Одинаковi");
